@@ -136,5 +136,8 @@
     ul.icon_mobile{
         right: -15px;
     }
+    .nav_bar {
+        min-width: 107%;
+    }
 }
 
