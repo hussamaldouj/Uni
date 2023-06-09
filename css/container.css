@@ -7,7 +7,7 @@ body{
     display: block;
     direction:ltr;
     position: relative;
-    font-family:'Amiri'!important;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 /*start main*/
@@ -315,7 +315,7 @@ align-self: center;
   grid-area: col-1;
 }
 .cont-1{
-  background: url(/img/banner3.jpg) no-repeat center center fixed;
+  background: url(../img/banner3.jpg) no-repeat center center fixed;
   background-size: cover;
   border-radius: 15px;
   width: 100%;
@@ -337,7 +337,7 @@ align-self: center;
   grid-area: col-3;
 }
 .img_col_2{
-  background: url(/img/logo_pharm.png) no-repeat center center;
+  background: url(../img/logo_pharm.png) no-repeat center center;
   background-size: contain;
   width: 100%;
   height: 100%;
@@ -353,7 +353,7 @@ align-self: center;
   grid-area: col-6;
 }
 .img_col_3{
-  background: url(/img/imgs-1.jpeg) no-repeat center center;
+  background: url(../img/imgs-1.jpeg) no-repeat center center;
   background-size: cover;
   border-radius: 10px;
   -webkit-border-radius: 10px;
@@ -370,7 +370,7 @@ align-self: center;
   grid-area: col-8;
 }
 .img_col_4{
-  background: url(/img/D.Pharmacy.jpg) no-repeat center center;
+  background: url(../img/D.Pharmacy.jpg) no-repeat center center;
   background-size: cover;
   border-radius: 10px;
   -webkit-border-radius: 10px;
@@ -387,7 +387,7 @@ align-self: center;
   grid-area: col-10;
 }
 .img_col_5{
-  background: url(/img//imgs-7.jpeg) no-repeat center center;
+  background: url(../img//imgs-7.jpeg) no-repeat center center;
   background-size: cover;
   border-radius: 10px;
   -webkit-border-radius: 10px;
@@ -410,21 +410,21 @@ align-self: center;
   grid-area: col-14;
 }
 .img_col_6{
-  background: url(/img/logo-student.png) no-repeat center center;
+  background: url(../img/logo-student.png) no-repeat center center;
   background-size: contain;
   width: 100%;
   height: 100%;
   grid-area: pic-6;
 }
 .img_col_7{
-  background: url(/img/teacher.png) no-repeat center center;
+  background: url(../img/teacher.png) no-repeat center center;
   background-size: contain;
   width: 100%;
   height: 100%;
   grid-area: pic-7;
 }
 .img_col_8{
-  background: url(/img/graduation.png) no-repeat center center;
+  background: url(../img/graduation.png) no-repeat center center;
   background-size: contain;
   width: 100%;
   height: 100%;
@@ -446,7 +446,7 @@ align-self: center;
   grid-area: col-15;
 }
 .cont-16{
-  background: url(/img/map-color-overlay.png) no-repeat center center;
+  background: url(../img/map-color-overlay.png) no-repeat center center;
   grid-area: col-16;
 }
 .center_1{

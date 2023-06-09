@@ -9,7 +9,7 @@
     backdrop-filter: blur(10px);
 }
 .img_nav{
-    background: url(/img/logo.png);
+    background: url(../img/logo.png);
     background-repeat: no-repeat;
     background-size: contain;
     width: 100%;
